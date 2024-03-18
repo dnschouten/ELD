@@ -1,10 +1,9 @@
-opencv-python==4.6.0.66
 elasticdeform
 scikit-learn
-torchgeometry==0.1.2
-kornia==0.6.2
-piqa==1.2.2
-tifffile==2020.9.3
-torchnet==0.0.4
+torchgeometry>=0.1.2
+kornia>=0.6.2
+piqa>=1.2.2
+tifffile?=2020.9.3
+torchnet>=0.0.4
 pandas
 seaborn
